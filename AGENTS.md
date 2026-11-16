@@ -118,7 +118,7 @@ Reglas:
 ## Git y GitHub
 
 - Nunca directo en `main`: siempre rama y PR. Rama `tipo/número-descripción`, por ejemplo `feat/12-multiplicador-combo`.
-- Un issue es un PR.
+- Un issue es un PR. Todo issue nuevo se agrega al proyecto "MagicSkate" de GitHub Projects.
 - Conventional Commits, con el tipo en inglés y la descripción en español, muy concisos: `feat: agregar multiplicador de combo`.
 - Los commits llevan el trailer `Co-Authored-By` de la IA.
 - El push va al final de la tarea, después de `just verify`.

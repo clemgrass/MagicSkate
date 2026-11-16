@@ -1,6 +1,6 @@
 # 0007. Squash merge a main protegido, con el rastro de la IA en los commits
 
-- **Estado:** Aceptada
+- **Estado:** Aceptada. La parte "Sin tablero de Projects" fue reemplazada por 0011.
 - **Fecha:** 2026-11-16
 
 ## Contexto
