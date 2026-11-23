@@ -37,6 +37,7 @@ MagicSkate es un juego 3D de skate en Godot con C#. Los trucos arman un combo, y
 - Los términos técnicos van en inglés cuando no tienen traducción natural (`commit`, `deploy`).
 - Oraciones cortas, lo importante primero, sin relleno. Vale para documentos, commits, PRs, comentarios del código, la interfaz y lo que me escribes.
 - El código (nombres, tipos, proyectos) va en inglés. Los comentarios y documentos, en español.
+- `README.en.md` es la traducción al inglés de `README.md`. Si cambias `README.md`, actualiza `README.en.md`.
 
 ### Herramientas
 

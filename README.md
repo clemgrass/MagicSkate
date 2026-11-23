@@ -1,3 +1,5 @@
+[English](README.en.md)
+
 # MagicSkate
 
 Un juego 3D de skate donde tus trucos son tu magia.
@@ -49,3 +51,5 @@ Godot calcula la física. En cada tick, Domain recibe los hechos (en el suelo, e
 - **Assets de terceros:** solo CC0 o CC BY 4.0 (y OFL para fuentes tipográficas). Cada archivo tiene su autor y su origen en `CREDITS.md`.
 
 Los archivos de licencia se agregan en una de las primeras tareas. Los detalles están en [`docs/decisiones/0008-licencias.md`](docs/decisiones/0008-licencias.md).
+
+Página en itch.io: https://cgrassdev.itch.io/magic-skate
